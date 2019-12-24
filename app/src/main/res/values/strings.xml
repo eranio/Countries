@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Countries</string>
+    <string name="native_name">Native Name</string>
+    <string name="english_name">English Name</string>
+    <string-array name="sort_options">
+        <item>Name (asc)</item>
+        <item>Name (desc)</item>
+        <item>Area (asc)</item>
+        <item>Area (desc)</item>
+    </string-array>
+</resources>
